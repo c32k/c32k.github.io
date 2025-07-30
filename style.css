@@ -1,0 +1,9 @@
+:root {
+  --bgcol: #121212;
+  --txtcol: #EAEAEA;
+}
+.top-tb {
+  background-color: var(--bgcol);
+  min-height: 10%;
+  
+}
